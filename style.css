@@ -3,8 +3,7 @@
 }
 
 body{
-    background: linear-gradient(180deg, rgba(2,0,36,0.5735735735735736) 0%, rgba(95,95,101,0.6591591591591592) 44%, rgba(0,212,255,1) 100%);
-    background-image: url('./desktop-birthday.jpg');
+    background-image: url('./background.jpg');
     background-size: cover;
     background-position: center center;
     display: flex;
@@ -20,11 +19,7 @@ h1{
     text-align: center;
     font-size: 4rem;
     margin-top: 4rem;
-    background-color: rgba(220,220,22,0.9);
-    padding: 12px;
-    border-radius: 20px;
-    border: 2px solid black;
-color: white;
+
 }
 
 .countdown-container{
@@ -41,12 +36,6 @@ color: white;
 
 .countdown-el{
     text-align: center;
-    background-color: rgba(22,22,220,0.8);
-    border-radius: 20px;
-    border: 2px solid black;
-    color: white;
-    margin: 10px;
-    padding: 5px;
 }
 
 .countdown-el span{
